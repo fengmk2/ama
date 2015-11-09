@@ -6,6 +6,8 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
+Not only for Node.js! Can ask in English or Chinese (中文，简体繁体我都看得懂).
+
 -
 
 ### Guidelines
